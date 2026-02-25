@@ -32,3 +32,4 @@ function mostrarDia() {
     document.getElementById("resultado").innerText = dia;
 }
 
+// nueva funcion
